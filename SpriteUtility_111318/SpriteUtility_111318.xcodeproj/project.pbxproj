@@ -14,6 +14,7 @@
 		BD14B8C7219B4D1C00484BF6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD14B8C5219B4D1C00484BF6 /* LaunchScreen.storyboard */; };
 		BD14B8D1219B4E0100484BF6 /* SKSpriteNode+Utility.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD14B8D0219B4E0100484BF6 /* SKSpriteNode+Utility.swift */; };
 		BD14B8D3219B4F7100484BF6 /* Crab.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD14B8D2219B4F7100484BF6 /* Crab.xcassets */; };
+		BD14B8D5219B535900484BF6 /* CustomScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD14B8D4219B535900484BF6 /* CustomScene.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BD14B8C8219B4D1C00484BF6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BD14B8D0219B4E0100484BF6 /* SKSpriteNode+Utility.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "SKSpriteNode+Utility.swift"; path = "../../SKSpriteNode+Utility.swift"; sourceTree = "<group>"; };
 		BD14B8D2219B4F7100484BF6 /* Crab.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Crab.xcassets; path = ../../Crab.xcassets; sourceTree = "<group>"; };
+		BD14B8D4219B535900484BF6 /* CustomScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomScene.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			children = (
 				BD14B8BC219B4D1B00484BF6 /* AppDelegate.swift */,
 				BD14B8BE219B4D1B00484BF6 /* ViewController.swift */,
+				BD14B8D4219B535900484BF6 /* CustomScene.swift */,
 				BD14B8D0219B4E0100484BF6 /* SKSpriteNode+Utility.swift */,
 				BD14B8C0219B4D1B00484BF6 /* Main.storyboard */,
 				BD14B8C3219B4D1C00484BF6 /* Assets.xcassets */,
@@ -143,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD14B8D1219B4E0100484BF6 /* SKSpriteNode+Utility.swift in Sources */,
+				BD14B8D5219B535900484BF6 /* CustomScene.swift in Sources */,
 				BD14B8BF219B4D1B00484BF6 /* ViewController.swift in Sources */,
 				BD14B8BD219B4D1B00484BF6 /* AppDelegate.swift in Sources */,
 			);
